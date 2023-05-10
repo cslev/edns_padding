@@ -1,0 +1,3 @@
+[submodule "encrypted_dns_resolvers"]
+	path = encrypted_dns_resolvers
+	url = https://github.com/cslev/encrypted_dns_resolvers.git
